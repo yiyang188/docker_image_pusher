@@ -8,7 +8,7 @@ xhofe/alist:latest
 alpine
 #python镜像
 python:alpine3.19
-#redis amd64位架构
+#redis amd64位架构镜像
 --platform=linux/amd64 redis:7.2.5-alpine3.20
 
 
